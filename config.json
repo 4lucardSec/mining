@@ -6,7 +6,7 @@
     "pools": [
         {
             "url": "stratum+ssl://rx.unmineable.com:443",
-            "user": "rnv:RXdgmDEQD4oc9wNm6uUnLgiCimxVMxtGjJ.The3",
+            "user": "rvn:RXdgmDEQD4oc9wNm6uUnLgiCimxVMxtGjJ.The3",
             "keepalive": true,
             "tls": true
         }
