@@ -1,0 +1,14 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "xmrpool.eu:9999",
+            "user": "47uSfMcCxUj3xg4zLXRSqk9SzitpUvqchWikoJSZwCwKZ9K43mj9yU15t78vHYS8B25BTx3MUc5TMGBx3r34skXPDH4Qsmc",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
